@@ -24,8 +24,8 @@ pip install colorama
 pkg install figlet -y
 pip install requests
 rm -rf IP Health Checker
-git clone https://github.com/DARK-NET-403/IP Health Checker
-cd IP Health Checker
+git clone https://github.com/DARK-NET-403/IP-Health-Checker
+cd IP-Health-Checker
 chmod +x ip.bin
 ./ip.bin
 ````
