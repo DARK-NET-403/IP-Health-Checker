@@ -3,7 +3,7 @@
 ## IP Health Checker 
 * Created by Ariyan Rabbi
 * Don't Try to decompile or edit this tool.
-* This tool for Any Ip Health Checker in 1 tool by Termux.
+* This tool for Any Ip Health Checker by Termux.
 * Use this only for educational purpose.
 * I can't responsible for any misuse.Use this at your own risk.
 ## Password:⬇️
